@@ -1,5 +1,13 @@
 # 💫 About Me:
-I am currently in 3rd year, pursuing B. Tech in Computer Science & Engineering (CSE) at Shreeyash College of Engineering & Technology (SYCET). My goal is to contribute to impactful tech initiatives, leveraging my academic foundation and passion for Cybersecurity, Innovation & Automation.<br>
+I am currently a 3rd-year B.Tech Computer Science student at Shreeyash College of Engineering & Technology, with a strong passion for building innovative and impactful technology solutions.
+
+My core interests lie in Cybersecurity, Automation, and Software Development, where I enjoy exploring how technology can be used to solve real-world problems efficiently and securely. I have actively worked on multiple hands-on projects, including web-based systems, AI-powered tools, and security-focused applications, which have helped me strengthen both my technical and problem-solving skills.
+
+Alongside technical development, I place great emphasis on improving my communication and presentation skills, as I believe the ability to clearly present ideas is just as important as building them. I continuously work on expressing complex technical concepts in a simple and effective manner.
+
+My goal is to contribute to impactful tech initiatives, collaborate with like-minded individuals, and grow into a professional who can design, develop, and communicate innovative solutions effectively.
+
+I am always open to learning opportunities, internships, collaborations, and challenging projects that push me to improve and innovate.<br>
 
 
 ## 🌐 Socials:
